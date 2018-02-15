@@ -1,0 +1,27 @@
+{
+  "name": "weibo-post",
+  "version": "1.0.0",
+  "description": "weibo post.",
+  "main": "weibo-post.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itibbers/weibo-post.git"
+  },
+  "keywords": [
+    "weibo",
+    "post"
+  ],
+  "author": "iTibbers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itibbers/weibo-post/issues"
+  },
+  "homepage": "https://github.com/itibbers/weibo-post#readme",
+  "devDependencies": {
+    "https": "^1.0.0",
+    "querystring": "^0.2.0"
+  }
+}
