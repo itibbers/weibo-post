@@ -1,6 +1,6 @@
 # weibo-post
 
-Post weibo text from https based node.
+Post weibo text from https based on node.
 
 ## Usage
 
@@ -22,5 +22,5 @@ weiboPost.post('your post content');
 ![How to get cookie](./images/cookie.png)
 
     1. Open weibo.com by Chrome.
-    2. F12 open Terminal, change to Network tab.
+    2. Tap F12 to open Terminal, change to Network tab.
     3. Post a weibo, follow the image indicate.
