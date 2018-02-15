@@ -1,6 +1,6 @@
 {
   "name": "weibo-post",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "weibo post.",
   "main": "weibo-post.js",
   "scripts": {
